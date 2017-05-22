@@ -5,7 +5,7 @@
 /*===========  显示移动端样式  ===========*/
 
 .section-wrap .banner-picture-moblie,.appointment-picture{display: block;width: 100%;}
-.section-wrap .moblie-warpper,.moblie-main-content,.moblie-nav-list,.moblie-carousel,.moblie-footer{display: block;}
+.section-wrap .moblie-warpper,.moblie-main-content,.moblie-nav-list,.moblie-carousel,.moblie-footer,.layer-wrap{display: block;}
 /*,.layer-wrap*/
 /*===========  导航栏 移动端样式  ===========*/
 .moblie-nav-list{
